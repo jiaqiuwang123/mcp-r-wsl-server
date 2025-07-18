@@ -12,4 +12,5 @@ To use it, following the steps:
 8. Enter gemini in terminal, it will show "Using 2 MCP servers"    
 9. Use /mcp to check, you will see r-wsl
 10. Ignore the Disconnected (0 tools cached) and No tools available
-11. Then you can ask gemini to produce R script and run it directly in the Cli
+11. Then you can ask gemini to produce R script. For example, can you write a R script to generage 10 random integers from 10 to 100 ?
+12. Run R script in the Gemini-Cli
