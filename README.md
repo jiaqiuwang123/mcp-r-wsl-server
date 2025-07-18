@@ -1,4 +1,4 @@
-# The MCP server allows you to run R script directly in Gemini-Cli
+# The Node JS MCP server allows you to run R script directly in Gemini-Cli
 # It is built with node.js
 
 To use it, following the steps:
