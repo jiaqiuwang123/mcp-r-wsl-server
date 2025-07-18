@@ -9,7 +9,7 @@
         "@modelcontextprotocol/server-github"
       ],
       "env": {
-        "GITHUB_PERSONAL_ACCESS_TOKEN": "your GitHub Token"
+        "GITHUB_PERSONAL_ACCESS_TOKEN": "Replace to your GitHub Token"
       }
     },
     "r-wsl": {
