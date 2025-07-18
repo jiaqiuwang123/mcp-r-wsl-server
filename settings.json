@@ -1,0 +1,23 @@
+{
+  "theme": "GitHub",
+  "selectedAuthType": "oauth-personal",
+  "mcpServers": {
+    "github": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@modelcontextprotocol/server-github"
+      ],
+      "env": {
+        "GITHUB_PERSONAL_ACCESS_TOKEN": "your GitHub Token"
+      }
+    },
+    "r-wsl": {
+      "command": "node",
+      "args": [
+        "/home/ai/gemini/mcp-r-wsl-server/index.js"
+      ],
+      "env": {}
+    }
+  }
+}
