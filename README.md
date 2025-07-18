@@ -3,7 +3,7 @@
 
 To use it, following the steps:
 
-1. Install Gemini-Cli in your WSL
+1. Install Gemini-Cli in WSL
 2. Clone the package into your machine
 3. Add settings.json into home folder in .gemini
 4. Add your GitHub token into "GITHUB_PERSONAL_ACCESS_TOKEN"
